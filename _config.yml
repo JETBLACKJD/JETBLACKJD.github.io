@@ -20,10 +20,10 @@ avatar: profile.png
 email: jordanjdent97@gmail.com
 github: JETBLACKJD # username
 twitter: JET_BLACKJD
-linkedin: username
+linkedin: https://www.linkedin.com/in/jordandent/
 stackoverflow: username   #e.g: users/2735833/proton1h1
 #Comment out if you don't want disqus
-disqus: username
+#disqus: username
 google_analytics: UA-69391421-1
 
 

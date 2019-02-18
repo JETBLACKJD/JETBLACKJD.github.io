@@ -1,6 +1,6 @@
 ---
-layout: layout
-Title:  React Search App
+layout: post
+title:  React Search App
 tags:
 - News
 - Tags

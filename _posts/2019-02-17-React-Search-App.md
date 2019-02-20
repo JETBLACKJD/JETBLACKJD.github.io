@@ -3,8 +3,8 @@ layout: post
 title:  React Search App
 tags:
 - News
-- Tags
-- Blog
+- React
+- App
 - Post
 ---
 
